@@ -1,4 +1,4 @@
-# Web Tree-sitter
+## Web Tree-sitter
 
 [![npmjs.com badge]][npmjs.com]
 
